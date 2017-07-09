@@ -1,10 +1,10 @@
 # CocoaPods使用
-一.安装CocoaPods
-官方教程
+##一.安装CocoaPods<br>
+官方教程<br>
 https://guides.cocoapods.org/
 
 推荐最新安装教程
-##http://www.jianshu.com/p/b64b4fd08d3c
+http://www.jianshu.com/p/b64b4fd08d3c
 
-二.如果你的mac安装好了CocoaPods的
+##二.如果你的mac安装好了CocoaPods的
 
